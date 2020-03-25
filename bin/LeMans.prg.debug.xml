@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="3" lineNum="12" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="3" lineNum="14" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="4" lineNum="17" pc="268435489" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="4" lineNum="18" pc="268435493" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="5" lineNum="21" pc="268435531" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="24" pc="268435536" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="25" pc="268435540" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="26" pc="268435553" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="27" pc="268435566" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="28" pc="268435597" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="29" pc="268435628" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="30" pc="268435659" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="31" pc="268435690" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="33" pc="268435707" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="34" pc="268435723" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="36" pc="268435735" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="37" pc="268435761" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="39" pc="268435803" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="40" pc="268435829" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="41" pc="268435867" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="42" pc="268435893" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="43" pc="268435910" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="44" pc="268435957" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="46" pc="268436004" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="47" pc="268436021" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="48" pc="268436047" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="50" pc="268436089" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="52" pc="268436115" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="53" pc="268436145" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="54" pc="268436171" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="55" pc="268436259" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="57" pc="268436285" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="59" pc="268436388" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="61" pc="268436491" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="63" pc="268436594" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="65" pc="268436697" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="67" pc="268436794" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="69" pc="268436897" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="71" pc="268437000" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="73" pc="268437103" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="75" pc="268437206" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="77" pc="268437269" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="80" pc="268437366" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="81" pc="268437410" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="82" pc="268437454" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="84" pc="268437498" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="85" pc="268437542" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="86" pc="268437586" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="89" pc="268437630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="90" pc="268437630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="91" pc="268437630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="92" pc="268437630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="93" pc="268437640" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="95" pc="268437650" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="96" pc="268437681" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="97" pc="268437720" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="99" pc="268437759" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="100" pc="268437805" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="101" pc="268437838" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="103" pc="268437871" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="104" pc="268437917" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="105" pc="268437956" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="107" pc="268437995" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="108" pc="268438021" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="109" pc="268438042" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="110" pc="268438059" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="111" pc="268438079" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="112" pc="268438096" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="113" pc="268438116" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="114" pc="268438128" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="115" pc="268438145" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="119" pc="268438168" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="121" pc="268438185" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="122" pc="268438211" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="123" pc="268438241" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="124" pc="268438267" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="125" pc="268438297" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="126" pc="268438327" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="127" pc="268438362" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="128" pc="268438388" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="129" pc="268438423" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="131" pc="268438453" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="132" pc="268438497" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="133" pc="268438555" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="135" pc="268438640" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="136" pc="268438707" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="137" pc="268438730" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="138" pc="268438749" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="139" pc="268438819" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="140" pc="268438845" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="141" pc="268438881" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="142" pc="268438907" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="143" pc="268438943" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="147" pc="268439040" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="148" pc="268439072" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="149" pc="268439095" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="150" pc="268439106" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="151" pc="268439132" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="152" pc="268439168" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="153" pc="268439194" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="154" pc="268439230" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="160" pc="268439328" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="161" pc="268439332" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="162" pc="268439346" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="164" pc="268439372" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="165" pc="268439372" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="166" pc="268439372" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="167" pc="268439379" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="169" pc="268439386" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="170" pc="268439421" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="171" pc="268439451" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="172" pc="268439481" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="173" pc="268439511" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="174" pc="268439541" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="8" lineNum="178" pc="268439589" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="9" lineNum="181" pc="268439594" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="9" lineNum="182" pc="268439598" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="10" lineNum="185" pc="268439609" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="10" lineNum="186" pc="268439613" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="12" lineNum="6" pc="268439624" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="12" lineNum="7" pc="268439628" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="13" lineNum="11" pc="268439647" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="14" lineNum="15" pc="268439652" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="15" lineNum="19" pc="268439657" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="15" lineNum="20" pc="268439661" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="16" lineNum="24" pc="268439699" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="16" lineNum="25" pc="268439703" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="18" lineNum="7" pc="268439720" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="18" lineNum="8" pc="268439724" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="18" lineNum="12" pc="268439745" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="19" lineNum="15" pc="268439766" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="19" lineNum="17" pc="268439770" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="19" lineNum="18" pc="268439823" symbol="draw"/>
+        <entry filename="Rez" id="25" lineNum="15" pc="268439836" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="17" pc="268439848" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="19" pc="268439872" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="19" symbol="ShowBatteryTitle"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="14" symbol="ShowBatteryCriticalTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="10" object="true" symbol="LeMansApp"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="21" method="true" symbol="drawTicks"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="20" symbol="sleepMode"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="18" symbol="AppName"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="15" symbol="ShowNotificationTitle"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="9" object="true" symbol="LeMansView"/>
+        <entry field="true" id="16" symbol="BatteryLevelCriticalTitle"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="17" symbol="BatteryLevelCriticalError"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435531" name="dc" stackId="1" startPc="268435489"/>
+        <entry endPc="268439037" name="textBattery" stackId="23" startPc="268438707"/>
+        <entry endPc="268439037" name="battery" stackId="22" startPc="268438707"/>
+        <entry endPc="268439324" name="notification" stackId="24" startPc="268439072"/>
+        <entry endPc="268439327" name="LeMansBlue" stackId="4" startPc="268435540"/>
+        <entry endPc="268439327" name="fgC" stackId="7" startPc="268435540"/>
+        <entry endPc="268439327" name="nowText" stackId="20" startPc="268435540"/>
+        <entry endPc="268439327" name="hourHandAngle" stackId="10" startPc="268435540"/>
+        <entry endPc="268439327" name="myDay" stackId="21" startPc="268435540"/>
+        <entry endPc="268439327" name="centerY" stackId="13" startPc="268435540"/>
+        <entry endPc="268439327" name="centerX" stackId="12" startPc="268435540"/>
+        <entry endPc="268439327" name="minuteHandAngle" stackId="9" startPc="268435540"/>
+        <entry endPc="268439327" name="my" stackId="17" startPc="268435540"/>
+        <entry endPc="268439327" name="mx" stackId="16" startPc="268435540"/>
+        <entry endPc="268439327" name="clockTime" stackId="8" startPc="268435540"/>
+        <entry endPc="268439327" name="sy" stackId="15" startPc="268435540"/>
+        <entry endPc="268439327" name="height" stackId="3" startPc="268435540"/>
+        <entry endPc="268439327" name="sx" stackId="14" startPc="268435540"/>
+        <entry endPc="268439327" name="width" stackId="2" startPc="268435540"/>
+        <entry endPc="268439327" name="hy" stackId="19" startPc="268435540"/>
+        <entry endPc="268439327" name="secondHandAngle" stackId="11" startPc="268435540"/>
+        <entry endPc="268439327" name="hx" stackId="18" startPc="268435540"/>
+        <entry endPc="268439327" name="bgC" stackId="6" startPc="268435540"/>
+        <entry endPc="268439327" name="LeMansOrange" stackId="5" startPc="268435540"/>
+        <entry endPc="268439328" name="dc" stackId="1" startPc="268435536"/>
+        <entry endPc="268439588" name="i" stackId="14" startPc="268439421"/>
+        <entry endPc="268439588" name="eY" stackId="11" startPc="268439332"/>
+        <entry endPc="268439588" name="eX" stackId="10" startPc="268439332"/>
+        <entry endPc="268439588" name="innerRad" stackId="13" startPc="268439332"/>
+        <entry endPc="268439588" name="outerRad" stackId="12" startPc="268439332"/>
+        <entry endPc="268439588" name="sY" stackId="9" startPc="268439332"/>
+        <entry endPc="268439588" name="sX" stackId="8" startPc="268439332"/>
+        <entry endPc="268439589" name="dc" stackId="1" startPc="268439328"/>
+        <entry endPc="268439589" name="color" stackId="2" startPc="268439328"/>
+        <entry endPc="268439589" name="out" stackId="4" startPc="268439328"/>
+        <entry endPc="268439589" name="size" stackId="3" startPc="268439328"/>
+        <entry endPc="268439589" name="innerOffset" stackId="5" startPc="268439328"/>
+        <entry endPc="268439589" name="offset" stackId="7" startPc="268439328"/>
+        <entry endPc="268439589" name="angle" stackId="6" startPc="268439328"/>
+        <entry endPc="268439652" name="state" stackId="1" startPc="268439647"/>
+        <entry endPc="268439657" name="state" stackId="1" startPc="268439652"/>
+        <entry endPc="268439765" name="dictionary" stackId="1" startPc="268439724"/>
+        <entry endPc="268439836" name="dc" stackId="1" startPc="268439766"/>
+        <entry endPc="268439889" name="rez_cmp_local_custom_drawable_19154604804775804784" stackId="2" startPc="268439848"/>
+        <entry endPc="268439890" name="dc" stackId="1" startPc="268439836"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="213" parentId="globals" symbolId="LeMansApp" type="class"/>
+        <dataEntry offset="292" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="371" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="410" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="441" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="472" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="511" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="542" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="621" parentId="globals" symbolId="LeMansView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="LeMansView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="LeMansView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="LeMansView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="LeMansView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTicks" parent="LeMansView">
+            <param id="dc"/>
+            <param id="color"/>
+            <param id="size"/>
+            <param id="out"/>
+            <param id="innerOffset"/>
+            <param id="angle"/>
+            <param id="offset"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="LeMansView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="LeMansView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="LeMansView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="LeMansApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="LeMansApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="LeMansApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="LeMansApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="LeMansApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

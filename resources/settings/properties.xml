@@ -1,0 +1,18 @@
+<properties>
+
+    <property id="BackgroundColor" type="number">0xFFFFFF</property>
+    <property id="ForegroundColor" type="number">0x000000</property>
+
+	<!-- True color : 0x9AC8E3 0x55FFFF 0x00AAFF -->
+	<property id="LeMansBlueColor" type="number">0x00AAFF</property>
+
+	<!-- True color : 0xD8784D 0xFFAA55 0xFFAA00 -->
+	<property id="LeMansOrangeColor" type="number">0xFFAA00</property>
+	
+	
+    <property id="ShowNotification" type="boolean">true</property>
+    <property id="ShowBattery" type="boolean">false</property>
+    <property id="ShowBatteryCritical" type="boolean">true</property>
+    <property id="BatteryLevelCritical" type="number">30</property>
+	
+</properties>

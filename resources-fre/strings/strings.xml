@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">LeMans</string>
+    <string id="ShowNotificationTitle">Affichage des notifications ?</string>
+    <string id="ShowBatteryTitle">Affichage de la batterie en permanence ?</string>
+    <string id="ShowBatteryCriticalTitle">Affichage de la batterie uniquement en dessous du niveau critique</string>
+    <string id="BatteryLevelCriticalTitle">Le niveau minimum de la batterie qui declanche l'affichage critique</string>
+   	<string id="BatteryLevelCriticalError">Le niveau doit etre entre 2 et 30</string>
+</strings>

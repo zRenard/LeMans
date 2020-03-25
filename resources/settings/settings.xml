@@ -1,0 +1,18 @@
+<settings>
+    <setting propertyKey="@Properties.ShowNotification" title="@Strings.ShowNotificationTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.ShowBattery" title="@Strings.ShowBatteryTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.ShowBatteryCritical" title="@Strings.ShowBatteryCriticalTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.BatteryLevelCritical" title="@Strings.BatteryLevelCriticalTitle">
+        <settingConfig type="numeric" min="2" max="30" errorMessage="@Strings.BatteryLevelCriticalError"/>
+    </setting>
+
+</settings>

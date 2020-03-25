@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">LeMans</string>
+
+    <string id="ShowNotificationTitle">Show notification on the right</string>
+    <string id="ShowBatteryTitle">Always show battery level on the left</string>
+    <string id="ShowBatteryCriticalTitle">Show battery level only while critical</string>
+    <string id="BatteryLevelCriticalTitle">Minimum Battery Level to display a warning</string>
+    <string id="BatteryLevelCriticalError">Must be between 2 and 30</string>
+ 
+</strings>
