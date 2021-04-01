@@ -30,6 +30,7 @@ class LeMansView extends WatchUi.WatchFace {
     	var fgC = Application.getApp().getProperty("ForegroundColor");
     	var clockTime = System.getClockTime();
     	
+    	dc.setAntiAlias(true);    	
     	dc.setColor(bgC,bgC);
     	dc.clear();
     	    	
@@ -105,11 +106,15 @@ class LeMansView extends WatchUi.WatchFace {
 		var hy = centerY - Math.cos(hourHandAngle) * ((width / 2)-24);
 		
     	dc.setColor(fgC,Graphics.COLOR_TRANSPARENT);    	
+		// Hands Circle at center
         dc.fillCircle(centerX, centerY, 10);
+        // Hours
     	dc.setPenWidth(6);
 		dc.drawLine(centerX,centerY,hx,hy);
+		// Minutes		
     	dc.setPenWidth(4);
 		dc.drawLine(centerX,centerY,mx,my);
+		// Seconds		
 		if (!sleepMode) {
     		dc.setPenWidth(2);
 			dc.drawLine(centerX,centerY,sx,sy);

@@ -12,3 +12,7 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/000fe6f8-bb3b
 
 ## Battery level
 * Minimum value to display critical battery level
+
+# History
+* 1.0.1
+** (new) Add a properties to enable antialiasing
