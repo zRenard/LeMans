@@ -30,7 +30,7 @@ class LeMansView extends WatchUi.WatchFace {
     	var fgC = Application.getApp().getProperty("ForegroundColor");
     	var clockTime = System.getClockTime();
     	
-    	dc.setAntiAlias(true);    	
+        if (dc has :setAntiAlias ) { dc.setAntiAlias(true); }
     	dc.setColor(bgC,bgC);
     	dc.clear();
     	    	

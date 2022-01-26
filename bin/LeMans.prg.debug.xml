@@ -1,264 +1,330 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
+    <manifest filename="C:\Users\fox\OneDrive\Projects\git_clones\LeMans\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="3" lineNum="12" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="3" lineNum="13" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="3" lineNum="14" pc="268435478" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="4" lineNum="17" pc="268435489" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="4" lineNum="18" pc="268435493" symbol="onLayout"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="5" lineNum="21" pc="268435531" symbol="onShow"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="24" pc="268435536" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="25" pc="268435540" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="26" pc="268435553" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="27" pc="268435566" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="28" pc="268435597" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="29" pc="268435628" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="30" pc="268435659" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="31" pc="268435690" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="33" pc="268435707" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="34" pc="268435723" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="36" pc="268435735" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="37" pc="268435761" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="39" pc="268435803" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="40" pc="268435829" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="41" pc="268435867" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="42" pc="268435893" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="43" pc="268435910" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="44" pc="268435957" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="46" pc="268436004" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="47" pc="268436021" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="48" pc="268436047" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="50" pc="268436089" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="52" pc="268436115" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="53" pc="268436145" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="54" pc="268436171" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="55" pc="268436259" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="57" pc="268436285" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="59" pc="268436388" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="61" pc="268436491" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="63" pc="268436594" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="65" pc="268436697" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="67" pc="268436794" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="69" pc="268436897" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="71" pc="268437000" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="73" pc="268437103" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="75" pc="268437206" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="77" pc="268437269" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="80" pc="268437366" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="81" pc="268437410" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="82" pc="268437454" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="84" pc="268437498" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="85" pc="268437542" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="86" pc="268437586" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="89" pc="268437630" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="90" pc="268437630" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="91" pc="268437630" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="92" pc="268437630" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="93" pc="268437640" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="95" pc="268437650" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="96" pc="268437681" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="97" pc="268437720" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="99" pc="268437759" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="100" pc="268437805" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="101" pc="268437838" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="103" pc="268437871" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="104" pc="268437917" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="105" pc="268437956" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="107" pc="268437995" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="108" pc="268438021" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="109" pc="268438042" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="110" pc="268438059" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="111" pc="268438079" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="112" pc="268438096" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="113" pc="268438116" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="114" pc="268438128" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="115" pc="268438145" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="119" pc="268438168" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="121" pc="268438185" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="122" pc="268438211" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="123" pc="268438241" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="124" pc="268438267" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="125" pc="268438297" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="126" pc="268438327" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="127" pc="268438362" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="128" pc="268438388" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="129" pc="268438423" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="131" pc="268438453" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="132" pc="268438497" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="133" pc="268438555" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="135" pc="268438640" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="136" pc="268438707" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="137" pc="268438730" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="138" pc="268438749" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="139" pc="268438819" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="140" pc="268438845" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="141" pc="268438881" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="142" pc="268438907" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="143" pc="268438943" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="147" pc="268439040" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="148" pc="268439072" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="149" pc="268439095" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="150" pc="268439106" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="151" pc="268439132" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="152" pc="268439168" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="153" pc="268439194" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="6" lineNum="154" pc="268439230" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="160" pc="268439328" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="161" pc="268439332" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="162" pc="268439346" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="164" pc="268439372" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="165" pc="268439372" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="166" pc="268439372" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="167" pc="268439379" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="169" pc="268439386" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="170" pc="268439421" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="171" pc="268439451" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="172" pc="268439481" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="173" pc="268439511" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="7" lineNum="174" pc="268439541" symbol="drawTicks"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="8" lineNum="178" pc="268439589" symbol="onHide"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="9" lineNum="181" pc="268439594" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="9" lineNum="182" pc="268439598" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="10" lineNum="185" pc="268439609" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansView.mc" id="10" lineNum="186" pc="268439613" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="12" lineNum="6" pc="268439624" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="12" lineNum="7" pc="268439628" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="13" lineNum="11" pc="268439647" symbol="onStart"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="14" lineNum="15" pc="268439652" symbol="onStop"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="15" lineNum="19" pc="268439657" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="15" lineNum="20" pc="268439661" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="16" lineNum="24" pc="268439699" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansApp.mc" id="16" lineNum="25" pc="268439703" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="18" lineNum="7" pc="268439720" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="18" lineNum="8" pc="268439724" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="18" lineNum="12" pc="268439745" symbol="initialize"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="19" lineNum="15" pc="268439766" symbol="draw"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="19" lineNum="17" pc="268439770" symbol="draw"/>
-        <entry filename="C:\\Users\\fox\\iCloudDrive\\Projects\\LeMansWatch\\source\\LeMansBackground.mc" id="19" lineNum="18" pc="268439823" symbol="draw"/>
-        <entry filename="Rez" id="25" lineNum="15" pc="268439836" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="17" pc="268439848" symbol="WatchFace"/>
-        <entry filename="Rez" id="25" lineNum="19" pc="268439872" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="1" lineNum="6" parent="globals/LeMansApp" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="1" lineNum="7" parent="globals/LeMansApp" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="2" lineNum="11" parent="globals/LeMansApp" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="3" lineNum="15" parent="globals/LeMansApp" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="4" lineNum="19" parent="globals/LeMansApp" pc="268435489" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="4" lineNum="20" parent="globals/LeMansApp" pc="268435493" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="5" lineNum="24" parent="globals/LeMansApp" pc="268435531" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="5" lineNum="25" parent="globals/LeMansApp" pc="268435535" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="6" lineNum="4" parent="globals/LeMansApp" pc="268439938" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansApp.mc" id="6" lineNum="4" parent="globals/LeMansApp" pc="268439938" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="8" lineNum="7" parent="globals/Background" pc="268435552" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="8" lineNum="8" parent="globals/Background" pc="268435556" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="8" lineNum="12" parent="globals/Background" pc="268435577" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="9" lineNum="15" parent="globals/Background" pc="268435598" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="9" lineNum="17" parent="globals/Background" pc="268435602" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="9" lineNum="18" parent="globals/Background" pc="268435655" symbol="draw"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="10" lineNum="5" parent="globals/Background" pc="268439919" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansBackground.mc" id="10" lineNum="5" parent="globals/Background" pc="268439919" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="12" lineNum="12" parent="globals/LeMansView" pc="268435668" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="12" lineNum="13" parent="globals/LeMansView" pc="268435672" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="12" lineNum="14" parent="globals/LeMansView" pc="268435690" symbol="initialize"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="13" lineNum="17" parent="globals/LeMansView" pc="268435701" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="13" lineNum="18" parent="globals/LeMansView" pc="268435705" symbol="onLayout"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="14" lineNum="21" parent="globals/LeMansView" pc="268435743" symbol="onShow"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="24" parent="globals/LeMansView" pc="268435748" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="25" parent="globals/LeMansView" pc="268435752" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="26" parent="globals/LeMansView" pc="268435765" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="27" parent="globals/LeMansView" pc="268435778" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="28" parent="globals/LeMansView" pc="268435809" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="29" parent="globals/LeMansView" pc="268435840" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="30" parent="globals/LeMansView" pc="268435871" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="31" parent="globals/LeMansView" pc="268435902" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="33" parent="globals/LeMansView" pc="268435919" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="33" parent="globals/LeMansView" pc="268435930" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="34" parent="globals/LeMansView" pc="268435947" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="35" parent="globals/LeMansView" pc="268435963" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="37" parent="globals/LeMansView" pc="268435975" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="38" parent="globals/LeMansView" pc="268436001" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="40" parent="globals/LeMansView" pc="268436043" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="41" parent="globals/LeMansView" pc="268436069" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="42" parent="globals/LeMansView" pc="268436107" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="43" parent="globals/LeMansView" pc="268436133" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="44" parent="globals/LeMansView" pc="268436150" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="45" parent="globals/LeMansView" pc="268436197" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="47" parent="globals/LeMansView" pc="268436244" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="48" parent="globals/LeMansView" pc="268436261" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="49" parent="globals/LeMansView" pc="268436287" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="51" parent="globals/LeMansView" pc="268436329" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="53" parent="globals/LeMansView" pc="268436355" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="54" parent="globals/LeMansView" pc="268436385" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="55" parent="globals/LeMansView" pc="268436411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="56" parent="globals/LeMansView" pc="268436499" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="58" parent="globals/LeMansView" pc="268436525" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="60" parent="globals/LeMansView" pc="268436628" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="62" parent="globals/LeMansView" pc="268436731" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="64" parent="globals/LeMansView" pc="268436834" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="66" parent="globals/LeMansView" pc="268436937" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="68" parent="globals/LeMansView" pc="268437034" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="70" parent="globals/LeMansView" pc="268437137" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="72" parent="globals/LeMansView" pc="268437240" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="74" parent="globals/LeMansView" pc="268437343" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="76" parent="globals/LeMansView" pc="268437446" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="78" parent="globals/LeMansView" pc="268437509" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="81" parent="globals/LeMansView" pc="268437606" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="82" parent="globals/LeMansView" pc="268437650" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="83" parent="globals/LeMansView" pc="268437694" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="85" parent="globals/LeMansView" pc="268437738" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="86" parent="globals/LeMansView" pc="268437782" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="87" parent="globals/LeMansView" pc="268437826" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="90" parent="globals/LeMansView" pc="268437870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="91" parent="globals/LeMansView" pc="268437870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="92" parent="globals/LeMansView" pc="268437870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="93" parent="globals/LeMansView" pc="268437870" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="94" parent="globals/LeMansView" pc="268437880" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="96" parent="globals/LeMansView" pc="268437890" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="97" parent="globals/LeMansView" pc="268437921" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="98" parent="globals/LeMansView" pc="268437960" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="100" parent="globals/LeMansView" pc="268437999" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="101" parent="globals/LeMansView" pc="268438045" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="102" parent="globals/LeMansView" pc="268438078" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="104" parent="globals/LeMansView" pc="268438111" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="105" parent="globals/LeMansView" pc="268438157" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="106" parent="globals/LeMansView" pc="268438196" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="108" parent="globals/LeMansView" pc="268438235" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="110" parent="globals/LeMansView" pc="268438261" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="112" parent="globals/LeMansView" pc="268438282" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="113" parent="globals/LeMansView" pc="268438299" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="115" parent="globals/LeMansView" pc="268438319" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="116" parent="globals/LeMansView" pc="268438336" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="118" parent="globals/LeMansView" pc="268438356" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="119" parent="globals/LeMansView" pc="268438368" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="120" parent="globals/LeMansView" pc="268438385" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="124" parent="globals/LeMansView" pc="268438408" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="126" parent="globals/LeMansView" pc="268438425" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="127" parent="globals/LeMansView" pc="268438451" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="128" parent="globals/LeMansView" pc="268438481" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="129" parent="globals/LeMansView" pc="268438507" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="130" parent="globals/LeMansView" pc="268438537" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="131" parent="globals/LeMansView" pc="268438567" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="132" parent="globals/LeMansView" pc="268438602" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="133" parent="globals/LeMansView" pc="268438628" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="134" parent="globals/LeMansView" pc="268438663" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="136" parent="globals/LeMansView" pc="268438693" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="137" parent="globals/LeMansView" pc="268438737" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="138" parent="globals/LeMansView" pc="268438795" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="140" parent="globals/LeMansView" pc="268438880" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="141" parent="globals/LeMansView" pc="268438947" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="142" parent="globals/LeMansView" pc="268438970" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="143" parent="globals/LeMansView" pc="268438989" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="144" parent="globals/LeMansView" pc="268439059" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="145" parent="globals/LeMansView" pc="268439085" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="146" parent="globals/LeMansView" pc="268439121" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="147" parent="globals/LeMansView" pc="268439147" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="148" parent="globals/LeMansView" pc="268439183" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="152" parent="globals/LeMansView" pc="268439280" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="153" parent="globals/LeMansView" pc="268439312" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="154" parent="globals/LeMansView" pc="268439335" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="155" parent="globals/LeMansView" pc="268439346" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="156" parent="globals/LeMansView" pc="268439372" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="157" parent="globals/LeMansView" pc="268439408" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="158" parent="globals/LeMansView" pc="268439434" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="15" lineNum="159" parent="globals/LeMansView" pc="268439470" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="165" parent="globals/LeMansView" pc="268439568" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="166" parent="globals/LeMansView" pc="268439572" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="167" parent="globals/LeMansView" pc="268439586" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="169" parent="globals/LeMansView" pc="268439612" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="170" parent="globals/LeMansView" pc="268439612" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="171" parent="globals/LeMansView" pc="268439612" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="172" parent="globals/LeMansView" pc="268439619" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="174" parent="globals/LeMansView" pc="268439626" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="175" parent="globals/LeMansView" pc="268439661" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="176" parent="globals/LeMansView" pc="268439691" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="177" parent="globals/LeMansView" pc="268439721" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="178" parent="globals/LeMansView" pc="268439751" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="16" lineNum="179" parent="globals/LeMansView" pc="268439781" symbol="drawTicks"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="17" lineNum="183" parent="globals/LeMansView" pc="268439829" symbol="onHide"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="18" lineNum="186" parent="globals/LeMansView" pc="268439834" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="18" lineNum="187" parent="globals/LeMansView" pc="268439838" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="19" lineNum="190" parent="globals/LeMansView" pc="268439849" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="19" lineNum="191" parent="globals/LeMansView" pc="268439853" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="20" lineNum="9" parent="globals/LeMansView" pc="268439987" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\fox\\OneDrive\\Projects\\git_clones\\LeMans\\source\\LeMansView.mc" id="20" lineNum="9" parent="globals/LeMansView" pc="268439987" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="2" parent="globals/Rez/Drawables" pc="268439981" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="6" parent="globals/Rez/Fonts" pc="268439983" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="8" parent="globals/Rez/JsonData" pc="268439985" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="17" parent="globals/Rez/Layouts" pc="268439864" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="20" parent="globals/Rez/Layouts" pc="268439876" symbol="WatchFace"/>
+        <entry filename="Rez" id="25" lineNum="22" parent="globals/Rez/Layouts" pc="268439900" symbol="WatchFace"/>
+        <entry filename="Rez" id="26" lineNum="10" parent="globals/Rez/Layouts" pc="268439984" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="27" parent="globals/Rez/Menus" pc="268439982" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="29" parent="globals/Rez/Strings" pc="268439986" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268439957" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="1" parent="globals/Rez" pc="268439957" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="19" symbol="ShowBatteryTitle"/>
-        <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry field="true" id="14" symbol="ShowBatteryCriticalTitle"/>
-        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="8388645" module="true" symbol="Time"/>
-        <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry id="10" object="true" symbol="LeMansApp"/>
-        <entry id="8389280" method="true" symbol="getInitialView"/>
-        <entry id="8389068" method="true" symbol="draw"/>
-        <entry id="8389377" method="true" symbol="onExitSleep"/>
-        <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="21" method="true" symbol="drawTicks"/>
-        <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="8389123" method="true" symbol="onShow"/>
-        <entry id="8388924" module="true" symbol="Gregorian"/>
-        <entry field="true" id="20" symbol="sleepMode"/>
-        <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="18" symbol="AppName"/>
-        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-        <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="13" symbol="LauncherIcon"/>
-        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry id="8389281" method="true" symbol="onStop"/>
-        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry field="true" id="15" symbol="ShowNotificationTitle"/>
-        <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry id="8389279" method="true" symbol="onStart"/>
-        <entry id="8389376" method="true" symbol="onEnterSleep"/>
-        <entry id="9" object="true" symbol="LeMansView"/>
-        <entry field="true" id="16" symbol="BatteryLevelCriticalTitle"/>
-        <entry id="11" module="true" symbol="Layouts"/>
-        <entry id="8389125" method="true" symbol="onHide"/>
-        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry field="true" id="8389063" symbol="identifier"/>
-        <entry field="true" id="17" symbol="BatteryLevelCriticalError"/>
-        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="18" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="14" symbol="ShowBatteryCriticalTitle"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="17" symbol="BatteryLevelCriticalError"/>
+        <entry id="9" object="true" symbol="LeMansApp"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="20" symbol="sleepMode"/>
+        <entry id="21" method="true" symbol="drawTicks"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="19" symbol="ShowBatteryTitle"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8391701" method="true" symbol="setAntiAlias"/>
+        <entry field="true" id="16" symbol="BatteryLevelCriticalTitle"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="10" object="true" symbol="LeMansView"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435531" name="dc" stackId="1" startPc="268435489"/>
-        <entry endPc="268439037" name="textBattery" stackId="23" startPc="268438707"/>
-        <entry endPc="268439037" name="battery" stackId="22" startPc="268438707"/>
-        <entry endPc="268439324" name="notification" stackId="24" startPc="268439072"/>
-        <entry endPc="268439327" name="LeMansBlue" stackId="4" startPc="268435540"/>
-        <entry endPc="268439327" name="fgC" stackId="7" startPc="268435540"/>
-        <entry endPc="268439327" name="nowText" stackId="20" startPc="268435540"/>
-        <entry endPc="268439327" name="hourHandAngle" stackId="10" startPc="268435540"/>
-        <entry endPc="268439327" name="myDay" stackId="21" startPc="268435540"/>
-        <entry endPc="268439327" name="centerY" stackId="13" startPc="268435540"/>
-        <entry endPc="268439327" name="centerX" stackId="12" startPc="268435540"/>
-        <entry endPc="268439327" name="minuteHandAngle" stackId="9" startPc="268435540"/>
-        <entry endPc="268439327" name="my" stackId="17" startPc="268435540"/>
-        <entry endPc="268439327" name="mx" stackId="16" startPc="268435540"/>
-        <entry endPc="268439327" name="clockTime" stackId="8" startPc="268435540"/>
-        <entry endPc="268439327" name="sy" stackId="15" startPc="268435540"/>
-        <entry endPc="268439327" name="height" stackId="3" startPc="268435540"/>
-        <entry endPc="268439327" name="sx" stackId="14" startPc="268435540"/>
-        <entry endPc="268439327" name="width" stackId="2" startPc="268435540"/>
-        <entry endPc="268439327" name="hy" stackId="19" startPc="268435540"/>
-        <entry endPc="268439327" name="secondHandAngle" stackId="11" startPc="268435540"/>
-        <entry endPc="268439327" name="hx" stackId="18" startPc="268435540"/>
-        <entry endPc="268439327" name="bgC" stackId="6" startPc="268435540"/>
-        <entry endPc="268439327" name="LeMansOrange" stackId="5" startPc="268435540"/>
-        <entry endPc="268439328" name="dc" stackId="1" startPc="268435536"/>
-        <entry endPc="268439588" name="i" stackId="14" startPc="268439421"/>
-        <entry endPc="268439588" name="eY" stackId="11" startPc="268439332"/>
-        <entry endPc="268439588" name="eX" stackId="10" startPc="268439332"/>
-        <entry endPc="268439588" name="innerRad" stackId="13" startPc="268439332"/>
-        <entry endPc="268439588" name="outerRad" stackId="12" startPc="268439332"/>
-        <entry endPc="268439588" name="sY" stackId="9" startPc="268439332"/>
-        <entry endPc="268439588" name="sX" stackId="8" startPc="268439332"/>
-        <entry endPc="268439589" name="dc" stackId="1" startPc="268439328"/>
-        <entry endPc="268439589" name="color" stackId="2" startPc="268439328"/>
-        <entry endPc="268439589" name="out" stackId="4" startPc="268439328"/>
-        <entry endPc="268439589" name="size" stackId="3" startPc="268439328"/>
-        <entry endPc="268439589" name="innerOffset" stackId="5" startPc="268439328"/>
-        <entry endPc="268439589" name="offset" stackId="7" startPc="268439328"/>
-        <entry endPc="268439589" name="angle" stackId="6" startPc="268439328"/>
-        <entry endPc="268439652" name="state" stackId="1" startPc="268439647"/>
-        <entry endPc="268439657" name="state" stackId="1" startPc="268439652"/>
-        <entry endPc="268439765" name="dictionary" stackId="1" startPc="268439724"/>
-        <entry endPc="268439836" name="dc" stackId="1" startPc="268439766"/>
-        <entry endPc="268439889" name="rez_cmp_local_custom_drawable_19154604804775804784" stackId="2" startPc="268439848"/>
-        <entry endPc="268439890" name="dc" stackId="1" startPc="268439836"/>
+        <entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435596" name="dictionary" stackId="1" startPc="268435556"/>
+        <entry arg="true" endPc="268435667" name="dc" stackId="1" startPc="268435598"/>
+        <entry arg="true" endPc="268435742" name="dc" stackId="1" startPc="268435701"/>
+        <entry endPc="268439276" name="textBattery" stackId="23" startPc="268438947"/>
+        <entry endPc="268439276" name="battery" stackId="22" startPc="268438947"/>
+        <entry endPc="268439563" name="notification" stackId="24" startPc="268439312"/>
+        <entry endPc="268439566" name="LeMansBlue" stackId="4" startPc="268435752"/>
+        <entry endPc="268439566" name="fgC" stackId="7" startPc="268435752"/>
+        <entry endPc="268439566" name="nowText" stackId="20" startPc="268435752"/>
+        <entry endPc="268439566" name="hourHandAngle" stackId="10" startPc="268435752"/>
+        <entry endPc="268439566" name="myDay" stackId="21" startPc="268435752"/>
+        <entry endPc="268439566" name="centerY" stackId="13" startPc="268435752"/>
+        <entry endPc="268439566" name="centerX" stackId="12" startPc="268435752"/>
+        <entry endPc="268439566" name="minuteHandAngle" stackId="9" startPc="268435752"/>
+        <entry endPc="268439566" name="my" stackId="17" startPc="268435752"/>
+        <entry endPc="268439566" name="mx" stackId="16" startPc="268435752"/>
+        <entry endPc="268439566" name="clockTime" stackId="8" startPc="268435752"/>
+        <entry endPc="268439566" name="sy" stackId="15" startPc="268435752"/>
+        <entry endPc="268439566" name="height" stackId="3" startPc="268435752"/>
+        <entry endPc="268439566" name="sx" stackId="14" startPc="268435752"/>
+        <entry endPc="268439566" name="width" stackId="2" startPc="268435752"/>
+        <entry endPc="268439566" name="hy" stackId="19" startPc="268435752"/>
+        <entry endPc="268439566" name="secondHandAngle" stackId="11" startPc="268435752"/>
+        <entry endPc="268439566" name="hx" stackId="18" startPc="268435752"/>
+        <entry endPc="268439566" name="bgC" stackId="6" startPc="268435752"/>
+        <entry endPc="268439566" name="LeMansOrange" stackId="5" startPc="268435752"/>
+        <entry arg="true" endPc="268439567" name="dc" stackId="1" startPc="268435748"/>
+        <entry endPc="268439827" name="i" stackId="14" startPc="268439661"/>
+        <entry endPc="268439827" name="eY" stackId="11" startPc="268439572"/>
+        <entry endPc="268439827" name="eX" stackId="10" startPc="268439572"/>
+        <entry endPc="268439827" name="innerRad" stackId="13" startPc="268439572"/>
+        <entry endPc="268439827" name="outerRad" stackId="12" startPc="268439572"/>
+        <entry endPc="268439827" name="sY" stackId="9" startPc="268439572"/>
+        <entry endPc="268439827" name="sX" stackId="8" startPc="268439572"/>
+        <entry arg="true" endPc="268439828" name="dc" stackId="1" startPc="268439568"/>
+        <entry arg="true" endPc="268439828" name="color" stackId="2" startPc="268439568"/>
+        <entry arg="true" endPc="268439828" name="out" stackId="4" startPc="268439568"/>
+        <entry arg="true" endPc="268439828" name="size" stackId="3" startPc="268439568"/>
+        <entry arg="true" endPc="268439828" name="innerOffset" stackId="5" startPc="268439568"/>
+        <entry arg="true" endPc="268439828" name="offset" stackId="7" startPc="268439568"/>
+        <entry arg="true" endPc="268439828" name="angle" stackId="6" startPc="268439568"/>
+        <entry endPc="268439916" name="rez_cmp_local_custom_drawable_90792360591732927813" stackId="2" startPc="268439876"/>
+        <entry arg="true" endPc="268439917" name="dc" stackId="1" startPc="268439864"/>
     </localVars>
-    <annotations/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowBatteryCriticalTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowNotificationTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelCriticalTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryLevelCriticalError"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowBatteryTitle"/>
+    </annotations>
     <dataEntryOffsetMappings>
-        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
-        <dataEntry offset="213" parentId="globals" symbolId="LeMansApp" type="class"/>
-        <dataEntry offset="292" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry offset="371" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry offset="410" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry offset="441" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry offset="472" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry offset="511" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry offset="542" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="621" parentId="globals" symbolId="LeMansView" type="class"/>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/LeMansApp" offset="213" parentId="globals" symbolId="LeMansApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="292" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="371" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="410" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="441" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="472" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="511" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="542" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/LeMansView" offset="621" parentId="globals" symbolId="LeMansView" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" name="initialize" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="LeMansApp" startPc="268435456">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onLayout" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268435483" name="onStart" parent="LeMansApp" startPc="268435479">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435488" name="onStop" parent="LeMansApp" startPc="268435484">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="LeMansApp" startPc="268435489">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435551" name="onSettingsChanged" parent="LeMansApp" startPc="268435531">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439956" name="&lt;init&gt;" parent="LeMansApp" startPc="268439938">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435597" name="initialize" parent="Background" startPc="268435552">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435667" name="draw" parent="Background" startPc="268435598">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onShow" parent="LeMansView">
+        <functionEntry accessMode="protected" endPc="268439937" name="&lt;init&gt;" parent="Background" startPc="268439919">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onUpdate" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268435700" name="initialize" parent="LeMansView" startPc="268435668">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435742" name="onLayout" parent="LeMansView" startPc="268435701">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="drawTicks" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268435747" name="onShow" parent="LeMansView" startPc="268435743">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439567" name="onUpdate" parent="LeMansView" startPc="268435748">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439828" name="drawTicks" parent="LeMansView" startPc="268439568">
             <param id="dc"/>
             <param id="color"/>
             <param id="size"/>
@@ -268,41 +334,41 @@
             <param id="offset"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onHide" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268439833" name="onHide" parent="LeMansView" startPc="268439829">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onExitSleep" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268439848" name="onExitSleep" parent="LeMansView" startPc="268439834">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onEnterSleep" parent="LeMansView">
+        <functionEntry accessMode="public" endPc="268439863" name="onEnterSleep" parent="LeMansView" startPc="268439849">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="LeMansApp">
+        <functionEntry accessMode="protected" endPc="268440005" name="&lt;init&gt;" parent="LeMansView" startPc="268439987">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onStart" parent="LeMansApp">
-            <param id="state"/>
+        <functionEntry accessMode="protected" endPc="268439981" name="&lt;init&gt;" parent="Drawables" startPc="268439981">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onStop" parent="LeMansApp">
-            <param id="state"/>
+        <functionEntry accessMode="protected" endPc="268439983" name="&lt;init&gt;" parent="Fonts" startPc="268439983">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="getInitialView" parent="LeMansApp">
+        <functionEntry accessMode="protected" endPc="268439985" name="&lt;init&gt;" parent="JsonData" startPc="268439985">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onSettingsChanged" parent="LeMansApp">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="initialize" parent="Background">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" name="draw" parent="Background">
+        <functionEntry accessMode="public" endPc="268439917" name="WatchFace" parent="Layouts" startPc="268439864">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
-            <param id="dc"/>
+        <functionEntry accessMode="protected" endPc="268439984" name="&lt;init&gt;" parent="Layouts" startPc="268439984">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439982" name="&lt;init&gt;" parent="Menus" startPc="268439982">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439986" name="&lt;init&gt;" parent="Strings" startPc="268439986">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439980" name="&lt;init&gt;" parent="Rez" startPc="268439957">
             <documentation/>
         </functionEntry>
     </functions>
