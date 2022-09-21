@@ -1,15 +1,15 @@
-using Toybox.WatchUi;
-using Toybox.Graphics;
-using Toybox.System;
-using Toybox.Time;
-using Toybox.Time.Gregorian;
-using Toybox.Lang;
-using Toybox.Application;
+import Toybox.WatchUi;
+import Toybox.Graphics;
+import Toybox.System;
+import Toybox.Time;
+import Toybox.Time.Gregorian;
+import Toybox.Lang;
+import Toybox.Application;
 
 class LeMansView extends WatchUi.WatchFace {
-	hidden var sleepMode;
+	var sleepMode = false;
 
-    function initialize() {
+    public function initialize() {
         WatchFace.initialize();
         sleepMode = false;        
     }
@@ -22,12 +22,18 @@ class LeMansView extends WatchUi.WatchFace {
     }
 
     function onUpdate(dc) {
+    	var myApp = Application.getApp();
     	var width = dc.getWidth();
 	    var height = dc.getHeight();
-    	var LeMansBlue = Application.getApp().getProperty("LeMansBlueColor");
-	   	var LeMansOrange = Application.getApp().getProperty("LeMansOrangeColor");
-    	var bgC = Application.getApp().getProperty("BackgroundColor");
-    	var fgC = Application.getApp().getProperty("ForegroundColor");
+
+    	var LeMansBlue = readKeyInt(myApp,"LeMansBlueColor",0x00AAFF);
+	   	var LeMansOrange = readKeyInt(myApp,"LeMansOrangeColor",0xFFAA00);
+    	var bgC = readKeyInt(myApp,"BackgroundColor",0xFFFFFF);
+    	var fgC = readKeyInt(myApp,"ForegroundColor",0x000000);
+    	var showNotification = readKeyBoolean(myApp,"ShowNotification",true);
+    	var showBattery = readKeyBoolean(myApp,"ShowBattery",true);
+    	var showBatteryCritical = readKeyBoolean(myApp,"ShowBatteryCritical",true);
+		var batteryLevelCritical = readKeyInt(myApp,"BatteryLevelCritical",30);    	
     	var clockTime = System.getClockTime();
     	
         if (dc has :setAntiAlias ) { dc.setAntiAlias(true); }
@@ -124,23 +130,24 @@ class LeMansView extends WatchUi.WatchFace {
 		dc.setPenWidth(1);
         // Center
         dc.setColor(LeMansOrange,Graphics.COLOR_TRANSPARENT);
-	    dc.fillCircle((width / 2), 155, 13);
+	    dc.fillCircle((width / 2), (height/8)*5, 13);
 	    dc.setColor(bgC,Graphics.COLOR_TRANSPARENT);
-        dc.drawCircle((width / 2), 155, 13);
-        dc.drawCircle((width / 2), 155, 15);
-        dc.fillEllipse((width / 2),156, 15,8);
+        dc.drawCircle((width / 2), (height/8)*5, 13);
+        dc.drawCircle((width / 2), (height/8)*5, 15);
+        dc.fillEllipse((width / 2),1+(height/8)*5, 15,8);
+        
 	    dc.setColor(fgC,Graphics.COLOR_TRANSPARENT);
-	    dc.drawEllipse((width / 2),156, 15,8);
-        dc.drawCircle((width / 2), 155, 14);
+	    dc.drawEllipse((width / 2),1+(height/8)*5, 15,8);
+        dc.drawCircle((width / 2), (height/8)*5, 14);
         
        	var nowText = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);      
         var myDay = Lang.format("$1$",[nowText.day.format("%d")]);
-   		dc.drawText((width / 2), 155-Graphics.getFontHeight(Graphics.FONT_XTINY )/2, Graphics.FONT_XTINY ,myDay, Graphics.TEXT_JUSTIFY_CENTER);        
+   		dc.drawText((width / 2), (height/8)*5-Graphics.getFontHeight(Graphics.FONT_XTINY )/2, Graphics.FONT_XTINY ,myDay, Graphics.TEXT_JUSTIFY_CENTER);        
         // Left
-		if (Application.getApp().getProperty("ShowBattery")||Application.getApp().getProperty("ShowBatteryCritical")) {
+		if (showBattery||showBatteryCritical) {
 	    	var battery = System.getSystemStats().battery;
 			var textBattery = (battery + 0.5).toNumber();
-			if (battery<=Application.getApp().getProperty("BatteryLevelCritical") || Application.getApp().getProperty("ShowBattery")) {
+			if (battery<=batteryLevelCritical || showBattery) {
 			    dc.setColor(fgC,Graphics.COLOR_TRANSPARENT);
 		        dc.fillCircle((width / 2)-40, 130, 13);
 		  	    dc.setColor(bgC,Graphics.COLOR_TRANSPARENT);
@@ -149,7 +156,7 @@ class LeMansView extends WatchUi.WatchFace {
 			}
 		}
 		// Right
-		if (Application.getApp().getProperty("ShowNotification")) {
+		if (showNotification) {
 			var notification = System.getDeviceSettings().notificationCount;
 			if (notification > 0) {
 			    dc.setColor(bgC,Graphics.COLOR_TRANSPARENT);
@@ -160,7 +167,6 @@ class LeMansView extends WatchUi.WatchFace {
 			}
 		}
     }
-
 
     function drawTicks(dc,color,size,out,innerOffset,angle,offset) {
     	dc.setPenWidth(size);
@@ -190,5 +196,27 @@ class LeMansView extends WatchUi.WatchFace {
     function onEnterSleep() {
 		sleepMode = true;
     }
-
+    
+    function readKeyInt(myApp,key,thisDefault) {
+	    var value = myApp.getProperty(key);
+	    if(value == null || !(value instanceof Number)) {
+	        if(value != null) {
+	            value = value.toNumber();
+	        } else {
+	            value = thisDefault;
+	        }
+	    }
+	    return value;
+   }
+   function readKeyBoolean(myApp,key,thisDefault) {
+	    var value = myApp.getProperty(key);
+	    if(value == null || !(value instanceof Boolean)) {
+	        if(value != null) {
+	            value = true;
+	        } else {
+	            value = thisDefault;
+	        }
+	    }
+	    return value;
+   }
 }

@@ -14,6 +14,9 @@ Available on Garmin ConnectIQ : https://apps.garmin.com/fr-FR/apps/000fe6f8-bb3b
 * Minimum value to display critical battery level
 
 # History
+* 1.0.5
+	* (**new**) Add new devices 955/Solar, 745, 7X, Marq, and Vivo
+	* (**new**) Add support to the new SDK
 * 1.0.4
 	* (**new**) Add Fenix 7 support and news models
 * 1.0.2
